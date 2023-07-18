@@ -1,5 +1,5 @@
 # Nigeria Major Languages App
-![App Screenshot](screenshot.png)
+![App Screenshot](nigerian-language-rdnkws0p2bp.streamlit.app.png)
 
 ## Description
 The Nigeria Major Languages App is a Streamlit web application that uses Natural Language Processing (NLP) to detect the major languages spoken in Nigeria based on user input text. The app is trained on a dataset containing texts in Yoruba, Igbo, Hausa, and Pidgin languages. The trained model predicts the language of the input text, providing users with insights into the language used.
