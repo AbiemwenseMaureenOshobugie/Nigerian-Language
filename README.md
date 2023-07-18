@@ -23,11 +23,11 @@ To run the app locally on your machine, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/AbiemwenseMaureenOshobugie/Nigerian-Language.git
     ```
 2. Navigate to the project directory:
     ```
-    cd your_repository
+    cd Nigerian-Language
     ```
 3. Install the required dependencies:
     ```
@@ -60,4 +60,8 @@ Abiemwense Maureen Oshobugie
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+Please note that the app requires the **nigerian_language.py**, **best_model.pkl**, and **requirements.txt** files to be present in the same directory for it to run successfully. Make sure to download the files from the provided GitHub repository and place them in the appropriate location before running the app.
+
+If you have any questions or need further assistance, feel free to reach out!
 
