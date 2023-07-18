@@ -2,3 +2,4 @@ pandas
 matplotlib
 nltk
 scikit-learn
+streamlit_lottie
