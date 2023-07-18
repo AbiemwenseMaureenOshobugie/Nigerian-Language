@@ -1,4 +1,4 @@
-# Nigeria Major Languages App
+# Nigeria Language
 ![App Screenshot](nigerian-language-rdnkws0p2bp.streamlit.app.png)
 
 ## Description
@@ -56,7 +56,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Abiemwense Oshobugie
+Abiemwense Maureen Oshobugie
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
