@@ -7,7 +7,7 @@ The Nigeria Major Languages App is a Streamlit web application that uses Natural
 Note: To get optimum results, please ensure that the input text is written in one of the four languages: Yoruba, Igbo, Hausa, or Pidgin. The accuracy of the language prediction may vary if non-Nigerian languages or mixed languages are used.
 
 ## Live Demo
-You can access the live demo of the app [here](https://nigerian-language-rdnkws0p2bp.streamlit.app).
+You can access the live demo of the app [here](https://nigerian-language-knbkcvbjluo.streamlit.app/).
 
 ## Table of Contents
 - [Description](#description)
