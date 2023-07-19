@@ -26,14 +26,14 @@ st.markdown(
     """
     <style>
     body {
-        background-color: lightblue;
+        background-color: #D3D3D3;
     }
     .header {
-        background-color: skyblue;
+        background-color: #D3D3D3;
         padding: 10px;
         border-radius: 10px;
         margin-bottom: 20px;
-        color: white;
+        color: #C2404B; /* Sanguine */
     }
     .lottie-animation {
         width: 200px;
@@ -45,6 +45,9 @@ st.markdown(
 )
 
 st.markdown("<h1 class='header'><b>Nigeria Major Languages App</b></h1>", unsafe_allow_html=True)
+
+# Display the .png image
+st.image("nigeria.png", caption="Nigeria Major Languages App", use_column_width=True)
 
 # Display instructions
 st.markdown(
